@@ -1,6 +1,6 @@
 # DLIM
 
-Deep Learning Pix2Pix model for image generation.
+Deep Learning Pix2Pix model for japanese print generation (18s/19s).
 
 Manual Drawing or image to Japanese (18s) drawing.
 
@@ -26,7 +26,7 @@ Input             |  Generated
 
 # Dataset / Pretrained weights
 
-The dataset ccan be found in the following link and the pretrained weights for the models.
+The dataset can be found in the following link and the pretrained weights for the models.
 
 https://drive.google.com/drive/folders/1iVbeJLTqT5NTXkpj-LnBfecVP41YhX3a?usp=sharing
 
