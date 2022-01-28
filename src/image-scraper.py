@@ -82,7 +82,7 @@ def main(argv):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python3 reshape_img.py <input_url> <output_folder>")
+        print("Usage: python3 image-scraper.py <input_url> <output_folder>")
         os._exit(1)
 
     main(sys.argv)
