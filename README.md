@@ -1,5 +1,7 @@
 # DLIM
 
+Japanese woodblock prints Generation.
+
 Deep Learning Pix2Pix model for japanese print generation (18s/19s).
 
 Manual Drawing or image to Japanese (18s) drawing.
